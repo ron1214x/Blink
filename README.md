@@ -18,6 +18,7 @@
 - Install [Blink Shell](https://apps.apple.com/app/id1156707581) on your iOS Device.
 - Enter `config` to turn on the configuration window.
 - Just paste the URL of the JS theme under `Appearance` > `Themes` > `New Theme`.
-  - ayu Dark: [https://raw.githubusercontent.com/hwyncho/ayu-Blink/master/ayu-Dark.js](https://raw.githubusercontent.com/hwyncho/ayu-Blink/master/ayu-Dark.js)
-  - ayu Light: [https://raw.githubusercontent.com/hwyncho/ayu-Blink/master/ayu-Light.js](https://raw.githubusercontent.com/hwyncho/ayu-Blink/master/ayu-Light.js)
-  - ayu Mirage: [https://raw.githubusercontent.com/hwyncho/ayu-Blink/master/ayu-Mirage.js](https://raw.githubusercontent.com/hwyncho/ayu-Blink/master/ayu-Mirage.js)
+  - ayu Dark: [https://raw.githubusercontent.com/ron1214x/Blink/master/ayu-Dark.js](https://raw.githubusercontent.com/ron1214x/Blink/master/ayu-Dark.js)
+  - ayu Light: [https://raw.githubusercontent.com/ron1214x/Blink/master/ayu-Light.js](https://raw.githubusercontent.com/ron1214x/Blink/master/ayu-Light.js)
+  - ayu Mirage: [https://raw.githubusercontent.com/ron1214x/Blink/master/ayu-Mirage.js](https://raw.githubusercontent.com/ron1214x/Blink/master/ayu-Mirage.js)
+  - Ron: [https://raw.githubusercontent.com/ron1214x/Blink/master/Ron.js](https://raw.githubusercontent.com/ron1214x/Blink/master/Ron.js)
